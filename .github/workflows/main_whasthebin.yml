@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'whasthebin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4E670587C8443FAB33E619A156B3251 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE6292872346444F8C53311880617F9B }}
